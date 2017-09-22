@@ -205,6 +205,8 @@ function twentyseventeen_social_links_icons() {
 		'wordpress.com'   => 'wordpress',
 		'yelp.com'        => 'yelp',
 		'youtube.com'     => 'youtube',
+		'workana.com'     => 'workana',
+		'upwork.com'      => 'upwork'
 	);
 
 	/**
